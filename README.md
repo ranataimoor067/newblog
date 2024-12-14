@@ -8,4 +8,4 @@ This project is designed as a full-featured blog application with dashboard.
 
 For more information, please refer to the official documentation of the technologies used:
 
-[`Clerk Documentation`](https://go.clerk.com/fgJHKlt)
+[`Clerk Documentation`](https://go.clerk.com/WSe7K8F)
